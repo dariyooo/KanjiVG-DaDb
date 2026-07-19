@@ -1,0 +1,7 @@
+[project]
+name = "kanjivg-dadb"
+version = "0.1.0"
+description = "Repackage KanjiVG into a DaKanji DaDb stroke-order archive."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
